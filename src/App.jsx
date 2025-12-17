@@ -68,7 +68,7 @@ export default function App() {
         .card img { width: 80px; margin-bottom: 15px; }
         .card:hover {
           transform: translateY(-8px);
-          box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+          box-shadow: 0 10px 20px rgba(6, 231, 40, 0.15);
         }
 
         .about {
