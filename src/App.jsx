@@ -112,6 +112,10 @@ export default function App() {
           align-items: center;
           font-size: 24px;
         }
+          nav a {
+  color: #fff;
+}
+
       `}</style>
 
       <header>
