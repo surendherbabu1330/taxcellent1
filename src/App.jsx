@@ -84,7 +84,7 @@ export default function App() {
           border: 1px solid #ccc;
         }
         button {
-          background: #0d6efd;
+          background: #0b8a1cff;
           color: #fff;
           border: none;
           padding: 10px;
@@ -160,7 +160,8 @@ export default function App() {
 
       <div className="sticky-icons">
         <a href="https://wa.me/918248017114" target="_blank" rel="noreferrer" aria-label="WhatsApp">
-          <img src="/whatsapp.jfif" style="border-radious : 50%" />
+          <img src="/whatsapp.jfif"  alt="WhatsApp"
+  style={{ borderRadius: "50%", width: "40px", height: "40px" }} />
         </a>
       </div>
     </>
