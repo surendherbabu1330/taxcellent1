@@ -16,7 +16,7 @@ export default function App() {
           justify-content: space-between;
           align-items: center;
           padding: 15px 20px;
-          background: #0d6efd;
+          background: #08c334ce;
           color: #fff;
           position: sticky;
           top: 0;
