@@ -60,6 +60,7 @@ export default function App() {
         }
         .card {
           background: #fff;
+          color:black;
           padding: 20px;
           border-radius: 10px;
           text-align: center;
@@ -68,11 +69,12 @@ export default function App() {
         .card img { width: 80px; margin-bottom: 15px; }
         .card:hover {
           transform: translateY(-8px);
-          box-shadow: 0 10px 20px rgba(6, 231, 40, 0.15);
+          box-shadow: 0 10px 20px rgba(64, 198, 84, 0.15);
         }
 
         .about {
           background: #fff;
+          color:black;
           max-width: 900px;
           margin: auto;
           border-radius: 10px;
