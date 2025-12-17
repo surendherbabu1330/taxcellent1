@@ -93,6 +93,9 @@ export default function App() {
           border-radius: 5px;
           cursor: pointer;
         }
+         .our{
+         color:black;
+         }
 
         .sticky-icons {
           position: fixed;
@@ -138,7 +141,7 @@ export default function App() {
       </section>
 
       <section id="services">
-        <h2>Our Services</h2>
+        <h2 className="our">Our Services</h2>
         <div className="services-grid">
           {servicesData.map(service => (
             <div className="card" key={service.id}>
